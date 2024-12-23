@@ -1,0 +1,324 @@
+2024-12-20 17:43:12 INFO  TC_fromField - Starting the Orange Use Case2
+2024-12-20 17:43:25 INFO  TC_fromField - Starting the Orange Use Case2
+2024-12-20 17:47:03 INFO  TC_fromField - Starting the Orange Use Case2
+2024-12-20 17:47:11 INFO  TC_fromField - Starting the Orange Use Case2
+2024-12-20 18:02:06 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-20 18:02:06 INFO  TC_fromField - Clicking in From Dropdown field
+2024-12-20 18:02:06 INFO  TC_fromField - Clearing the data From Dropdown field
+2024-12-20 18:02:07 INFO  TC_fromField - Entering the data in From Dropdown field
+2024-12-20 18:02:07 INFO  TC_fromField - Selecting the value form the dropdown
+2024-12-20 18:02:08 INFO  TC_toField - Starting the TC and navigating on the Home Page to select the Value form the To field dropwdown
+2024-12-20 18:02:08 INFO  TC_toField - Clicking in From Dropdown field
+2024-12-20 18:02:08 INFO  TC_toField - Clearing the data From Dropdown field
+2024-12-20 18:02:09 INFO  TC_toField - Entering the data in From Dropdown field
+2024-12-20 18:02:09 INFO  TC_toField - Selecting the value from the to dropdown
+2024-12-20 18:02:09 INFO  TC_fromField - Date Entered Successfully
+2024-12-20 18:05:38 INFO  TC_fromField - Starting the Orange Use Case2
+2024-12-20 18:05:44 INFO  TC_fromField - Starting the Orange Use Case2
+2024-12-20 18:08:31 INFO  TC_fromField - Starting the Orange Use Case2
+2024-12-20 18:08:40 INFO  TC_fromField - Starting the Orange Use Case2
+2024-12-20 19:00:31 INFO  TC_fromField - Starting the Orange Use Case2
+2024-12-20 19:00:32 INFO  TC_fromField - Starting the Orange Use Case2
+2024-12-20 19:01:29 INFO  TC_fromField - Starting the Orange Use Case2
+2024-12-20 19:01:33 INFO  TC_fromField - Starting the Orange Use Case2
+2024-12-20 19:03:00 INFO  TC_fromField - Starting the Orange Use Case2
+2024-12-20 19:03:12 INFO  TC_fromField - Starting the Orange Use Case2
+2024-12-20 19:08:41 INFO  TC_fromField - Starting the Orange Use Case2
+2024-12-20 19:08:57 INFO  TC_fromField - Starting the Orange Use Case2
+2024-12-20 19:12:24 INFO  TC_fromField - Starting the Orange Use Case2
+2024-12-20 19:12:33 INFO  TC_fromField - Starting the Orange Use Case2
+2024-12-20 19:14:06 INFO  TC_fromField - Starting the Orange Use Case2
+2024-12-20 19:14:22 INFO  TC_fromField - Starting the Orange Use Case2
+2024-12-20 19:20:02 INFO  TC_fromField - Starting the Orange Use Case2
+2024-12-20 19:20:17 INFO  TC_fromField - Starting the Orange Use Case2
+2024-12-20 19:20:55 INFO  TC_fromField - Starting the Orange Use Case2
+2024-12-20 19:21:10 INFO  TC_fromField - Starting the Orange Use Case2
+2024-12-20 19:21:26 INFO  TC_fromField - Starting the Orange Use Case2
+2024-12-20 19:21:43 INFO  TC_fromField - Starting the Orange Use Case2
+2024-12-20 19:26:06 INFO  TC_fromField - Starting the Orange Use Case2
+2024-12-20 19:26:23 INFO  TC_fromField - Starting the Orange Use Case2
+2024-12-21 15:57:23 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-21 15:57:24 INFO  TC_fromField - Clicking in From Dropdown field
+2024-12-21 15:57:24 INFO  TC_fromField - Clearing the data From Dropdown field
+2024-12-21 15:57:24 INFO  TC_fromField - Entering the data in From Dropdown field
+2024-12-21 15:57:24 INFO  TC_fromField - Selecting the value form the dropdown
+2024-12-21 15:57:25 INFO  TC_toField - Starting the TC and navigating on the Home Page to select the Value form the To field dropwdown
+2024-12-21 15:57:26 INFO  TC_toField - Clicking in From Dropdown field
+2024-12-21 15:57:26 INFO  TC_toField - Clearing the data From Dropdown field
+2024-12-21 15:57:26 INFO  TC_toField - Entering the data in From Dropdown field
+2024-12-21 15:57:26 INFO  TC_toField - Selecting the value from the to dropdown
+2024-12-21 15:57:26 INFO  TC_fromField - Date Entered Successfully
+2024-12-21 17:37:25 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-21 17:37:26 INFO  TC_fromField - Clicking in From Dropdown field
+2024-12-21 17:37:48 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-21 17:37:49 INFO  TC_fromField - Clicking in From Dropdown field
+2024-12-21 17:37:49 INFO  TC_fromField - Clearing the data From Dropdown field
+2024-12-21 17:37:49 INFO  TC_fromField - Entering the data in From Dropdown field
+2024-12-21 17:37:50 INFO  TC_fromField - Selecting the value form the dropdown
+2024-12-21 17:37:51 INFO  TC_toField - Starting the TC and navigating on the Home Page to select the Value form the To field dropwdown
+2024-12-21 17:37:51 INFO  TC_toField - Clicking in From Dropdown field
+2024-12-21 17:37:52 INFO  TC_toField - Clearing the data From Dropdown field
+2024-12-21 17:37:52 INFO  TC_toField - Entering the data in From Dropdown field
+2024-12-21 17:37:52 INFO  TC_toField - Selecting the value from the to dropdown
+2024-12-21 17:37:52 INFO  TC_fromField - Date Entered Successfully
+2024-12-21 17:39:27 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-21 17:39:27 INFO  TC_fromField - Clicking in From Dropdown field
+2024-12-21 17:39:27 INFO  TC_fromField - Clearing the data From Dropdown field
+2024-12-21 17:39:28 INFO  TC_fromField - Entering the data in From Dropdown field
+2024-12-21 17:39:28 INFO  TC_fromField - Selecting the value form the dropdown
+2024-12-21 17:39:28 INFO  TC_toField - Starting the TC and navigating on the Home Page to select the Value form the To field dropwdown
+2024-12-21 17:39:29 INFO  TC_toField - Clicking in From Dropdown field
+2024-12-21 17:39:29 INFO  TC_toField - Clearing the data From Dropdown field
+2024-12-21 17:39:29 INFO  TC_toField - Entering the data in From Dropdown field
+2024-12-21 17:39:29 INFO  TC_toField - Selecting the value from the to dropdown
+2024-12-21 17:39:29 INFO  TC_fromField - Date Entered Successfully
+2024-12-21 17:45:37 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-21 17:45:37 INFO  TC_fromField - Clicking in From Dropdown field
+2024-12-21 17:45:37 INFO  TC_fromField - Clearing the data From Dropdown field
+2024-12-21 17:45:37 INFO  TC_fromField - Entering the data in From Dropdown field
+2024-12-21 17:45:37 INFO  TC_fromField - Selecting the value form the dropdown
+2024-12-21 17:45:38 INFO  TC_toField - Starting the TC and navigating on the Home Page to select the Value form the To field dropwdown
+2024-12-21 17:45:39 INFO  TC_toField - Clicking in From Dropdown field
+2024-12-21 17:45:39 INFO  TC_toField - Clearing the data From Dropdown field
+2024-12-21 17:45:39 INFO  TC_toField - Entering the data in From Dropdown field
+2024-12-21 17:45:39 INFO  TC_toField - Selecting the value from the to dropdown
+2024-12-21 17:45:39 INFO  TC_fromField - Date Entered Successfully
+2024-12-21 17:46:36 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-21 17:46:37 INFO  TC_fromField - Clicking in From Dropdown field
+2024-12-21 17:46:37 INFO  TC_fromField - Clearing the data From Dropdown field
+2024-12-21 17:46:37 INFO  TC_fromField - Entering the data in From Dropdown field
+2024-12-21 17:46:37 INFO  TC_fromField - Selecting the value form the dropdown
+2024-12-21 17:46:41 INFO  TC_toField - Starting the TC and navigating on the Home Page to select the Value form the To field dropwdown
+2024-12-21 17:46:42 INFO  TC_toField - Clicking in From Dropdown field
+2024-12-21 17:46:42 INFO  TC_toField - Clearing the data From Dropdown field
+2024-12-21 17:46:42 INFO  TC_toField - Entering the data in From Dropdown field
+2024-12-21 17:46:42 INFO  TC_toField - Selecting the value from the to dropdown
+2024-12-21 17:46:43 INFO  TC_fromField - Date Entered Successfully
+2024-12-21 17:46:46 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-21 17:46:48 INFO  TC_fromField - Clicking in From Dropdown field
+2024-12-21 17:46:48 INFO  TC_fromField - Clearing the data From Dropdown field
+2024-12-21 17:46:48 INFO  TC_fromField - Entering the data in From Dropdown field
+2024-12-21 17:46:48 INFO  TC_fromField - Selecting the value form the dropdown
+2024-12-21 17:46:49 INFO  TC_toField - Starting the TC and navigating on the Home Page to select the Value form the To field dropwdown
+2024-12-21 17:46:49 INFO  TC_toField - Clicking in From Dropdown field
+2024-12-21 17:46:49 INFO  TC_toField - Clearing the data From Dropdown field
+2024-12-21 17:46:49 INFO  TC_toField - Entering the data in From Dropdown field
+2024-12-21 17:46:49 INFO  TC_toField - Selecting the value from the to dropdown
+2024-12-21 17:46:50 INFO  TC_fromField - Date Entered Successfully
+2024-12-21 18:00:08 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-21 18:00:09 INFO  TC_fromField - Clicking in From Dropdown field
+2024-12-21 18:00:09 INFO  TC_fromField - Clearing the data From Dropdown field
+2024-12-21 18:00:09 INFO  TC_fromField - Entering the data in From Dropdown field
+2024-12-21 18:00:09 INFO  TC_fromField - Selecting the value form the dropdown
+2024-12-21 18:00:11 INFO  TC_toField - Starting the TC and navigating on the Home Page to select the Value form the To field dropwdown
+2024-12-21 18:00:12 INFO  TC_toField - Clicking in From Dropdown field
+2024-12-21 18:00:12 INFO  TC_toField - Clearing the data From Dropdown field
+2024-12-21 18:00:12 INFO  TC_toField - Entering the data in From Dropdown field
+2024-12-21 18:00:12 INFO  TC_toField - Selecting the value from the to dropdown
+2024-12-21 18:00:12 INFO  TC_fromField - Date Entered Successfully
+2024-12-23 12:53:09 INFO  TC_fromField - Date Entered Successfully
+2024-12-23 12:55:05 INFO  TC_fromField - Date Entered Successfully
+2024-12-23 12:55:32 INFO  TC_fromField - Date Entered Successfully
+2024-12-23 12:55:52 INFO  TC_fromField - Date Entered Successfully
+2024-12-23 12:56:42 INFO  TC_fromField - Date Entered Successfully
+2024-12-23 12:57:11 INFO  TC_fromField - Date Entered Successfully
+2024-12-23 12:59:29 INFO  TC_fromField - Date Entered Successfully
+2024-12-23 13:04:23 INFO  TC_fromField - Date Entered Successfully
+2024-12-23 13:04:53 INFO  TC_fromField - Date Entered Successfully
+2024-12-23 13:06:43 INFO  TC_fromField - Date Entered Successfully
+2024-12-23 13:07:42 INFO  TC_fromField - Date Entered Successfully
+2024-12-23 13:08:16 INFO  TC_fromField - Date Entered Successfully
+2024-12-23 13:08:42 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-23 13:08:43 INFO  TC_fromField - Clicking in From Dropdown field
+2024-12-23 13:08:43 INFO  TC_fromField - Clearing the data From Dropdown field
+2024-12-23 13:08:43 INFO  TC_fromField - Entering the data in From Dropdown field
+2024-12-23 13:08:43 INFO  TC_fromField - Selecting the value form the dropdown
+2024-12-23 13:08:44 INFO  TC_toField - Starting the TC and navigating on the Home Page to select the Value form the To field dropwdown
+2024-12-23 13:08:44 INFO  TC_toField - Clicking in From Dropdown field
+2024-12-23 13:08:45 INFO  TC_toField - Clearing the data From Dropdown field
+2024-12-23 13:08:45 INFO  TC_toField - Entering the data in From Dropdown field
+2024-12-23 13:08:45 INFO  TC_toField - Selecting the value from the to dropdown
+2024-12-23 13:08:45 INFO  TC_fromField - Date Entered Successfully
+2024-12-23 13:09:33 INFO  TC_fromField - Date Entered Successfully
+2024-12-23 13:09:48 INFO  TC_fromField - Date Entered Successfully
+2024-12-23 13:10:11 INFO  TC_fromField - Date Entered Successfully
+2024-12-23 13:20:13 INFO  TC_fromField - Date Entered Successfully
+2024-12-23 13:21:57 INFO  TC_fromField - Date Entered Successfully
+2024-12-23 13:38:06 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-23 13:38:56 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-23 13:39:20 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-23 13:47:21 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-23 13:47:48 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-23 13:48:23 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-23 13:49:38 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-23 13:50:27 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-23 13:50:51 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-23 13:51:11 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-23 13:54:01 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-23 14:31:14 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-23 14:32:19 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-23 14:33:28 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-23 14:33:50 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-23 14:35:49 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-23 14:36:16 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-23 14:36:55 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-23 14:46:06 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-23 14:51:21 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-23 14:52:47 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-23 14:53:33 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-23 14:55:52 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-23 14:55:58 INFO  TC_fromField - The selected option for the reservation quota is mentioned below:
+2024-12-23 14:57:30 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-23 14:57:31 INFO  TC_fromField - Clicking in From Dropdown field
+2024-12-23 15:08:24 INFO  TC_classFilterDropdown - Starting the TC and navigating on the Home Page
+2024-12-23 15:08:34 INFO  TC_classFilterDropdown - The selected option for the Class Filter  is mentioned below:
+2024-12-23 15:15:01 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-23 15:15:02 INFO  TC_fromField - Clicking in From Dropdown field
+2024-12-23 15:15:02 INFO  TC_fromField - Clearing the data From Dropdown field
+2024-12-23 15:15:02 INFO  TC_fromField - Entering the data in From Dropdown field
+2024-12-23 15:15:02 INFO  TC_fromField - Selecting the value form the dropdown
+2024-12-23 15:15:06 INFO  TC_toField - Starting the TC and navigating on the Home Page to select the Value form the To field dropwdown
+2024-12-23 15:15:07 INFO  TC_toField - Clicking in From Dropdown field
+2024-12-23 15:15:07 INFO  TC_toField - Clearing the data From Dropdown field
+2024-12-23 15:15:07 INFO  TC_toField - Entering the data in From Dropdown field
+2024-12-23 15:15:08 INFO  TC_toField - Selecting the value from the to dropdown
+2024-12-23 15:15:08 INFO  TC_fromField - Date Entered Successfully
+2024-12-23 15:15:13 INFO  TC_reservationQuota - Starting the TC and navigating on the Home Page
+2024-12-23 15:15:16 INFO  TC_reservationQuota - The selected option for the reservation quota is mentioned below:
+2024-12-23 15:15:16 INFO  TC_classFilterDropdown - Starting the TC and navigating on the Home Page
+2024-12-23 15:15:19 INFO  TC_classFilterDropdown - The selected option for the Class Filter  is mentioned below:
+2024-12-23 15:22:03 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-23 15:22:08 INFO  TC_fromField - Clicking in From Dropdown field
+2024-12-23 15:22:08 INFO  TC_fromField - Clearing the data From Dropdown field
+2024-12-23 15:22:08 INFO  TC_fromField - Entering the data in From Dropdown field
+2024-12-23 15:22:09 INFO  TC_fromField - Selecting the value form the dropdown
+2024-12-23 15:22:15 INFO  TC_toField - Starting the TC and navigating on the Home Page to select the Value form the To field dropwdown
+2024-12-23 15:22:18 INFO  TC_toField - Clicking in From Dropdown field
+2024-12-23 15:22:19 INFO  TC_toField - Clearing the data From Dropdown field
+2024-12-23 15:22:19 INFO  TC_toField - Entering the data in From Dropdown field
+2024-12-23 15:22:19 INFO  TC_toField - Selecting the value from the to dropdown
+2024-12-23 15:22:20 INFO  TC_fromField - Date Entered Successfully
+2024-12-23 15:22:25 INFO  TC_reservationQuota - Starting the TC and navigating on the Home Page
+2024-12-23 15:22:29 INFO  TC_reservationQuota - The selected option for the reservation quota is mentioned below:
+2024-12-23 15:22:29 INFO  TC_classFilterDropdown - Starting the TC and navigating on the Home Page
+2024-12-23 15:22:32 INFO  TC_classFilterDropdown - The selected option for the Class Filter  is mentioned below:
+2024-12-23 15:23:10 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-23 15:23:12 INFO  TC_fromField - Clicking in From Dropdown field
+2024-12-23 15:23:12 INFO  TC_fromField - Clearing the data From Dropdown field
+2024-12-23 15:23:12 INFO  TC_fromField - Entering the data in From Dropdown field
+2024-12-23 15:23:12 INFO  TC_fromField - Selecting the value form the dropdown
+2024-12-23 15:23:16 INFO  TC_toField - Starting the TC and navigating on the Home Page to select the Value form the To field dropwdown
+2024-12-23 15:23:19 INFO  TC_toField - Clicking in From Dropdown field
+2024-12-23 15:23:19 INFO  TC_toField - Clearing the data From Dropdown field
+2024-12-23 15:23:19 INFO  TC_toField - Entering the data in From Dropdown field
+2024-12-23 15:23:20 INFO  TC_toField - Selecting the value from the to dropdown
+2024-12-23 15:23:20 INFO  TC_fromField - Date Entered Successfully
+2024-12-23 15:23:26 INFO  TC_reservationQuota - Starting the TC and navigating on the Home Page
+2024-12-23 15:23:30 INFO  TC_reservationQuota - The selected option for the reservation quota is mentioned below:
+2024-12-23 15:23:30 INFO  TC_classFilterDropdown - Starting the TC and navigating on the Home Page
+2024-12-23 15:23:33 INFO  TC_classFilterDropdown - The selected option for the Class Filter  is mentioned below:
+2024-12-23 15:32:47 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-23 15:32:47 INFO  TC_fromField - Clicking in From Dropdown field
+2024-12-23 15:32:47 INFO  TC_fromField - Clearing the data From Dropdown field
+2024-12-23 15:32:48 INFO  TC_fromField - Entering the data in From Dropdown field
+2024-12-23 15:32:48 INFO  TC_fromField - Selecting the value form the dropdown
+2024-12-23 15:32:50 INFO  TC_toField - Starting the TC and navigating on the Home Page to select the Value form the To field dropwdown
+2024-12-23 15:32:50 INFO  TC_toField - Clicking in From Dropdown field
+2024-12-23 15:32:50 INFO  TC_toField - Clearing the data From Dropdown field
+2024-12-23 15:32:50 INFO  TC_toField - Entering the data in From Dropdown field
+2024-12-23 15:32:51 INFO  TC_toField - Selecting the value from the to dropdown
+2024-12-23 15:32:51 INFO  TC_fromField - Date Entered Successfully
+2024-12-23 15:32:56 INFO  TC_reservationQuota - Starting the TC and navigating on the Home Page
+2024-12-23 15:32:58 INFO  TC_reservationQuota - The selected option for the reservation quota is mentioned below:
+2024-12-23 15:32:58 INFO  TC_classFilterDropdown - Starting the TC and navigating on the Home Page
+2024-12-23 15:33:01 INFO  TC_classFilterDropdown - The selected option for the Class Filter  is mentioned below:
+2024-12-23 15:37:25 INFO  TC_toField - Starting the TC and navigating on the Home Page to select the Value form the To field dropwdown
+2024-12-23 15:37:29 INFO  TC_toField - Clicking in From Dropdown field
+2024-12-23 15:37:29 INFO  TC_toField - Clearing the data From Dropdown field
+2024-12-23 15:37:30 INFO  TC_toField - Entering the data in From Dropdown field
+2024-12-23 15:37:30 INFO  TC_toField - Selecting the value from the to dropdown
+2024-12-23 15:39:05 INFO  TC_toField - Starting the TC and navigating on the Home Page to select the Value form the To field dropwdown
+2024-12-23 15:39:06 INFO  TC_toField - Clicking in From Dropdown field
+2024-12-23 15:39:14 INFO  TC_toField - Clearing the data From Dropdown field
+2024-12-23 15:39:14 INFO  TC_toField - Entering the data in From Dropdown field
+2024-12-23 15:39:14 INFO  TC_toField - Selecting the value from the to dropdown
+2024-12-23 15:46:10 INFO  TC_toField - Starting the TC and navigating on the Home Page to select the Value form the To field dropwdown
+2024-12-23 15:46:12 INFO  TC_toField - Clicking in From Dropdown field
+2024-12-23 15:46:12 INFO  TC_toField - Clearing the data From Dropdown field
+2024-12-23 15:46:12 INFO  TC_toField - Entering the data in From Dropdown field
+2024-12-23 15:46:12 INFO  TC_toField - Selecting the value from the to dropdown
+2024-12-23 15:48:28 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-23 15:48:34 INFO  TC_fromField - Clicking in From Dropdown field
+2024-12-23 15:48:34 INFO  TC_fromField - Clearing the data From Dropdown field
+2024-12-23 15:48:35 INFO  TC_fromField - Entering the data in From Dropdown field
+2024-12-23 15:48:35 INFO  TC_fromField - Selecting the value form the dropdown
+2024-12-23 15:49:25 INFO  TC_toField - Starting the TC and navigating on the Home Page to select the Value form the To field dropwdown
+2024-12-23 15:49:25 INFO  TC_toField - Clicking in From Dropdown field
+2024-12-23 15:49:26 INFO  TC_toField - Clearing the data From Dropdown field
+2024-12-23 15:49:27 INFO  TC_toField - Entering the data in From Dropdown field
+2024-12-23 15:49:27 INFO  TC_toField - Selecting the value from the to dropdown
+2024-12-23 15:52:03 INFO  TC_toField - Starting the TC and navigating on the Home Page to select the Value from the To field dropwdown
+2024-12-23 15:52:04 INFO  TC_toField - Clicking in From Dropdown field
+2024-12-23 15:52:05 INFO  TC_toField - Clearing the data From Dropdown field
+2024-12-23 15:52:05 INFO  TC_toField - Entering the data in From Dropdown field
+2024-12-23 15:52:05 INFO  TC_toField - Selecting the value from the to dropdown
+2024-12-23 15:57:27 INFO  TC_toField - Starting the TC and navigating on the Home Page to select the Value from the To field dropwdown
+2024-12-23 15:57:31 INFO  TC_toField - Clicking in From Dropdown field
+2024-12-23 15:57:31 INFO  TC_toField - Clearing the data From Dropdown field
+2024-12-23 15:57:31 INFO  TC_toField - Entering the data in From Dropdown field
+2024-12-23 15:57:31 INFO  TC_toField - Selecting the value from the to dropdown
+2024-12-23 15:58:19 INFO  TC_toField - Starting the TC and navigating on the Home Page to select the Value from the To field dropwdown
+2024-12-23 15:58:21 INFO  TC_toField - Clicking in From Dropdown field
+2024-12-23 15:58:21 INFO  TC_toField - Clearing the data From Dropdown field
+2024-12-23 15:58:21 INFO  TC_toField - Entering the data in From Dropdown field
+2024-12-23 15:58:21 INFO  TC_toField - Selecting the value from the to dropdown
+2024-12-23 15:58:44 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-23 15:58:46 INFO  TC_fromField - Clicking in From Dropdown field
+2024-12-23 15:58:46 INFO  TC_fromField - Clearing the data From Dropdown field
+2024-12-23 15:58:46 INFO  TC_fromField - Entering the data in From Dropdown field
+2024-12-23 15:58:46 INFO  TC_fromField - Selecting the value form the dropdown
+2024-12-23 15:58:47 INFO  TC_toField - Starting the TC and navigating on the Home Page to select the Value from the To field dropwdown
+2024-12-23 15:58:48 INFO  TC_toField - Clicking in From Dropdown field
+2024-12-23 15:58:48 INFO  TC_toField - Clearing the data From Dropdown field
+2024-12-23 15:58:48 INFO  TC_toField - Entering the data in From Dropdown field
+2024-12-23 15:58:48 INFO  TC_toField - Selecting the value from the to dropdown
+2024-12-23 15:58:49 INFO  TC_fromField - Date Entered Successfully
+2024-12-23 15:58:53 INFO  TC_reservationQuota - Starting the TC and navigating on the Home Page
+2024-12-23 15:58:55 INFO  TC_reservationQuota - The selected option for the reservation quota is mentioned below:
+2024-12-23 15:58:55 INFO  TC_classFilterDropdown - Starting the TC and navigating on the Home Page
+2024-12-23 15:58:57 INFO  TC_classFilterDropdown - The selected option for the Class Filter  is mentioned below:
+2024-12-23 16:00:32 INFO  TC_toField - Starting the TC and navigating on the Home Page to select the Value from the To field dropwdown
+2024-12-23 16:00:34 INFO  TC_toField - Clicking in From Dropdown field
+2024-12-23 16:00:34 INFO  TC_toField - Clearing the data From Dropdown field
+2024-12-23 16:00:35 INFO  TC_toField - Entering the data in From Dropdown field
+2024-12-23 16:00:35 INFO  TC_toField - Selecting the value from the to dropdown
+2024-12-23 16:00:51 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-23 16:00:52 INFO  TC_fromField - Clicking in From Dropdown field
+2024-12-23 16:00:53 INFO  TC_fromField - Clearing the data From Dropdown field
+2024-12-23 16:00:53 INFO  TC_fromField - Entering the data in From Dropdown field
+2024-12-23 16:00:53 INFO  TC_fromField - Selecting the value form the dropdown
+2024-12-23 16:00:54 INFO  TC_toField - Starting the TC and navigating on the Home Page to select the Value from the To field dropwdown
+2024-12-23 16:00:55 INFO  TC_toField - Clicking in From Dropdown field
+2024-12-23 16:00:55 INFO  TC_toField - Clearing the data From Dropdown field
+2024-12-23 16:00:55 INFO  TC_toField - Entering the data in From Dropdown field
+2024-12-23 16:00:55 INFO  TC_toField - Selecting the value from the to dropdown
+2024-12-23 16:00:55 INFO  TC_fromField - Date Entered Successfully
+2024-12-23 16:01:00 INFO  TC_reservationQuota - Starting the TC and navigating on the Home Page
+2024-12-23 16:01:01 INFO  TC_reservationQuota - The selected option for the reservation quota is mentioned below:
+2024-12-23 16:01:01 INFO  TC_classFilterDropdown - Starting the TC and navigating on the Home Page
+2024-12-23 16:01:02 INFO  TC_classFilterDropdown - The selected option for the Class Filter  is mentioned below:
+2024-12-23 18:54:38 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-23 18:54:39 INFO  TC_fromField - Clicking in From Dropdown field
+2024-12-23 18:54:39 INFO  TC_fromField - Clearing the data From Dropdown field
+2024-12-23 18:54:40 INFO  TC_fromField - Entering the data in From Dropdown field
+2024-12-23 18:54:40 INFO  TC_fromField - Selecting the value form the dropdown
+2024-12-23 18:54:42 INFO  TC_toField - Starting the TC and navigating on the Home Page to select the Value from the To field dropwdown
+2024-12-23 18:54:43 INFO  TC_toField - Clicking in From Dropdown field
+2024-12-23 18:54:43 INFO  TC_toField - Clearing the data From Dropdown field
+2024-12-23 18:54:43 INFO  TC_toField - Entering the data in From Dropdown field
+2024-12-23 18:54:43 INFO  TC_toField - Selecting the value from the to dropdown
+2024-12-23 18:54:44 INFO  TC_fromField - Date Entered Successfully
+2024-12-23 18:54:48 INFO  TC_reservationQuota - Starting the TC and navigating on the Home Page
+2024-12-23 18:54:50 INFO  TC_reservationQuota - The selected option for the reservation quota is mentioned below:
+2024-12-23 18:54:51 INFO  TC_classFilterDropdown - Starting the TC and navigating on the Home Page
+2024-12-23 18:54:53 INFO  TC_classFilterDropdown - The selected option for the Class Filter  is mentioned below:
