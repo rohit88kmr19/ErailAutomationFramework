@@ -26,7 +26,6 @@ public class E2E extends CommonToAllTests {
         TC_toField.toField();
         TC_dateField.dateField();
         TC_reservationQuota.fromResQuota();
-        Thread.sleep(3000);
         TC_classFilterDropdown.classFilterDropdown();
         erailHomePage.getTrainsClick();
         Thread.sleep(4000);

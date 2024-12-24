@@ -24,9 +24,6 @@ public class TC_reservationQuota extends CommonToAllTests {
         ErailHomePage erailHomePage = new ErailHomePage(DriverManager.getDriver());
         erailHomePage.ErailLogin();
         Select select = new Select(erailHomePage.reservationQuota());
-//        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(4));
-//        wait.until(ExpectedConditions.presenceOfElementLocated(erailHomePage.reserveQuota));
-//        ((JavascriptExecutor) driver).executeScript("window.onbeforeunload = null;");
         List<WebElement> options = select.getOptions();
         for (int i = 0; i < options.size(); i++) {
             WebElement reseOpt = options.get(i);
