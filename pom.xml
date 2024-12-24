@@ -10,17 +10,13 @@
     <name>Erail_OrangeAutomationFramework</name>
     <url>http://maven.apache.org</url>
 
-
     <dependencies>
-
         <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
             <version>4.24.0</version>
         </dependency>
-
-
         <!-- https://mvnrepository.com/artifact/org.testng/testng -->
         <dependency>
             <groupId>org.testng</groupId>
@@ -28,31 +24,25 @@
             <version>7.9.0</version>
             <scope>compile</scope>
         </dependency>
-
         <!-- https://mvnrepository.com/artifact/io.qameta.allure/allure-testng -->
         <dependency>
             <groupId>io.qameta.allure</groupId>
             <artifactId>allure-testng</artifactId>
-            <version>2.26.0</version>
+            <version>2.29.0</version>
         </dependency>
-
-
-        <!-- https://mvnrepository.com/artifact/org.uncommons/reportng -->
         <!-- https://mvnrepository.com/artifact/org.uncommons/reportng -->
         <dependency>
             <groupId>org.uncommons</groupId>
             <artifactId>reportng</artifactId>
-            <version>1.1.2</version>
-            <scope>test</scope>
+            <version>1.1.4</version>
+            <scope>compile</scope>
         </dependency>
-
         <dependency>
             <groupId>org.assertj</groupId>
             <artifactId>assertj-core</artifactId>
             <version>3.25.1</version>
             <scope>test</scope>
         </dependency>
-
 
         <!-- https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-core -->
         <dependency>
@@ -83,13 +73,6 @@
             <version>5.2.5</version>
         </dependency>
 
-        <dependency>
-            <groupId>io.qameta.allure</groupId>
-            <artifactId>allure-java-commons</artifactId>
-            <version>2.14.0</version>
-            <scope>test</scope>
-        </dependency>
-
     </dependencies>
 
     <build>
@@ -112,13 +95,13 @@
                 <plugin>
                     <artifactId>maven-surefire-plugin</artifactId>
                     <version>2.22.1</version>
-                  <configuration>
-                    <!-- Path to your TestNG XML suite file -->
-                    <suiteXmlFiles>
-                      <suiteXmlFile>src/test/testngresources/ErailHomePageTestngE2E.xml</suiteXmlFile>
-                      <suiteXmlFile>src/test/testngresources/OrangeTestng.xml</suiteXmlFile>
-                    </suiteXmlFiles>
-                  </configuration>
+                    <configuration>
+                        <!-- Path to your TestNG XML suite file -->
+                        <suiteXmlFiles>
+                            <suiteXmlFile>ErailHomePageTestngE2E.xml</suiteXmlFile>
+                            <suiteXmlFile>OrangeTestng.xml</suiteXmlFile>
+                        </suiteXmlFiles>
+                    </configuration>
 
                 </plugin>
                 <plugin>
