@@ -112,6 +112,14 @@
                 <plugin>
                     <artifactId>maven-surefire-plugin</artifactId>
                     <version>2.22.1</version>
+                  <configuration>
+                    <!-- Path to your TestNG XML suite file -->
+                    <suiteXmlFiles>
+                      <suiteXmlFile>src/test/testngresources/ErailHomePageTestngE2E.xml</suiteXmlFile>
+                      <suiteXmlFile>src/test/testngresources/OrangeTestng.xml</suiteXmlFile>
+                    </suiteXmlFiles>
+                  </configuration>
+
                 </plugin>
                 <plugin>
                     <artifactId>maven-jar-plugin</artifactId>
