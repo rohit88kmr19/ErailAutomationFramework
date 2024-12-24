@@ -23,15 +23,15 @@ public class TC_classFilterDropdown extends CommonToAllTests {
             ErailHomePage erailHomePage = new ErailHomePage(DriverManager.getDriver());
             erailHomePage.ErailLogin();
             Select select = new Select(erailHomePage.classFilterDropdown());
-            List<WebElement> options = select.getOptions();
-            for (int i = 0; i < options.size(); i++) {
-                WebElement reseOpt = options.get(i);
-                System.out.println("The option text are--->" + (i + 1) + ":" + reseOpt.getText());
-                select.selectByIndex(2);
+            List<WebElement> optionsClass = select.getOptions();
+            for (int i = 0; i < optionsClass.size(); i++) {
+                WebElement classopt = optionsClass.get(i);
+                System.out.println("The option text are--->" + (i + 1) + ":" + classopt.getText());
+                select.selectByIndex(12);
             }
-            WebElement selectedOption = select.getFirstSelectedOption();
+            WebElement selectedOptionClass = select.getFirstSelectedOption();
             logger.info("The selected option for the Class Filter  is mentioned below:");
-            System.out.println(selectedOption.getText());
+            System.out.println(selectedOptionClass.getText());
 
         }
 

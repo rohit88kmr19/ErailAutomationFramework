@@ -24,12 +24,15 @@ public class TC_reservationQuota extends CommonToAllTests {
         ErailHomePage erailHomePage = new ErailHomePage(DriverManager.getDriver());
         erailHomePage.ErailLogin();
         Select select = new Select(erailHomePage.reservationQuota());
+//        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(4));
+//        wait.until(ExpectedConditions.presenceOfElementLocated(erailHomePage.reserveQuota));
+//        ((JavascriptExecutor) driver).executeScript("window.onbeforeunload = null;");
         List<WebElement> options = select.getOptions();
         for (int i = 0; i < options.size(); i++) {
             WebElement reseOpt = options.get(i);
             System.out.println("The option text are--->" + (i + 1) + ":" + reseOpt.getText());
-            select.selectByIndex(2);
-        }
+            }
+        select.selectByVisibleText("Foreign");
         WebElement selectedOption = select.getFirstSelectedOption();
         logger.info("The selected option for the reservation quota is mentioned below:");
         System.out.println(selectedOption.getText());
