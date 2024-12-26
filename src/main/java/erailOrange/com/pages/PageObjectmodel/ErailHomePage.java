@@ -17,7 +17,7 @@ public class ErailHomePage extends ErailMethods {
     //Page Locator Erail Home Page
 
     public static By fromDropdownList = By.xpath("//div[@class='autocomplete-w1'][1]//div[@class='autocomplete']/div");
-    public static By toDropdownList = By.cssSelector("div.autocomplete-w1>div.autocomplete>div[title*='Vi']");
+    public static By toDropdownList = By.cssSelector("div.autocomplete-w1>div.autocomplete>div[title]");
     private By fromField = By.xpath("//tbody/tr/td/input[@id='txtStationFrom']");
     private By toField = By.xpath("//tbody/tr/td/input[@id='txtStationTo']");
     private By sortOnDate = By.xpath("//input[@title='Select Departure date for availability']");

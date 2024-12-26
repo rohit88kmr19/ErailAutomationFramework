@@ -1,0 +1,70 @@
+2024-12-26 17:11:44 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-26 17:11:47 INFO  TC_fromField - Clicking in From Dropdown field
+2024-12-26 17:11:47 INFO  TC_fromField - Clearing the data From Dropdown field
+2024-12-26 17:11:48 INFO  TC_fromField - Entering the data in From Dropdown field
+2024-12-26 17:11:48 INFO  TC_fromField - Selecting the value form the dropdown
+2024-12-26 17:11:51 INFO  TC_toField - Starting the TC and navigating on the Home Page to select the Value from the To field dropwdown
+2024-12-26 17:11:52 INFO  TC_toField - Clicking in From Dropdown field
+2024-12-26 17:11:52 INFO  TC_toField - Clearing the data From Dropdown field
+2024-12-26 17:11:52 INFO  TC_toField - Entering the data in From Dropdown field
+2024-12-26 17:11:52 INFO  TC_toField - Selecting the value from the to dropdown
+2024-12-26 17:11:53 INFO  TC_fromField - Date Entered Successfully
+2024-12-26 17:11:58 INFO  TC_reservationQuota - Starting the TC and navigating on the Home Page
+2024-12-26 17:11:59 INFO  TC_reservationQuota - The selected option for the reservation quota is mentioned below:
+2024-12-26 17:11:59 INFO  TC_classFilterDropdown - Starting the TC and navigating on the Home Page
+2024-12-26 17:12:03 INFO  TC_classFilterDropdown - The selected option for the Class Filter  is mentioned below:
+2024-12-26 17:18:39 INFO  TC_toField - Starting the TC and navigating on the Home Page to select the Value from the To field dropwdown
+2024-12-26 17:18:40 INFO  TC_toField - Clicking in From Dropdown field
+2024-12-26 17:18:42 INFO  TC_toField - Clearing the data From Dropdown field
+2024-12-26 17:18:42 INFO  TC_toField - Entering the data in From Dropdown field
+2024-12-26 17:18:42 INFO  TC_toField - Selecting the value from the to dropdown
+2024-12-26 17:21:25 INFO  TC_toField - Starting the TC and navigating on the Home Page to select the Value from the To field dropwdown
+2024-12-26 17:21:28 INFO  TC_toField - Clicking in From Dropdown field
+2024-12-26 17:21:28 INFO  TC_toField - Clearing the data From Dropdown field
+2024-12-26 17:21:28 INFO  TC_toField - Entering the data in From Dropdown field
+2024-12-26 17:21:29 INFO  TC_toField - Selecting the value from the to dropdown
+2024-12-26 17:22:25 INFO  TC_toField - Starting the TC and navigating on the Home Page to select the Value from the To field dropwdown
+2024-12-26 17:22:28 INFO  TC_toField - Clicking in From Dropdown field
+2024-12-26 17:22:28 INFO  TC_toField - Clearing the data From Dropdown field
+2024-12-26 17:22:29 INFO  TC_toField - Entering the data in From Dropdown field
+2024-12-26 17:22:29 INFO  TC_toField - Selecting the value from the to dropdown
+2024-12-26 17:22:59 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-26 17:23:00 INFO  TC_fromField - Clicking in From Dropdown field
+2024-12-26 17:23:00 INFO  TC_fromField - Clearing the data From Dropdown field
+2024-12-26 17:23:00 INFO  TC_fromField - Entering the data in From Dropdown field
+2024-12-26 17:23:00 INFO  TC_fromField - Selecting the value form the dropdown
+2024-12-26 17:23:02 INFO  TC_toField - Starting the TC and navigating on the Home Page to select the Value from the To field dropwdown
+2024-12-26 17:23:03 INFO  TC_toField - Clicking in From Dropdown field
+2024-12-26 17:23:03 INFO  TC_toField - Clearing the data From Dropdown field
+2024-12-26 17:23:04 INFO  TC_toField - Entering the data in From Dropdown field
+2024-12-26 17:23:04 INFO  TC_toField - Selecting the value from the to dropdown
+2024-12-26 17:23:04 INFO  TC_fromField - Date Entered Successfully
+2024-12-26 17:23:09 INFO  TC_reservationQuota - Starting the TC and navigating on the Home Page
+2024-12-26 17:23:10 INFO  TC_reservationQuota - The selected option for the reservation quota is mentioned below:
+2024-12-26 17:23:10 INFO  TC_classFilterDropdown - Starting the TC and navigating on the Home Page
+2024-12-26 17:23:14 INFO  TC_classFilterDropdown - The selected option for the Class Filter  is mentioned below:
+2024-12-26 17:27:25 INFO  TC_toField - Starting the TC and navigating on the Home Page to select the Value from the To field dropwdown
+2024-12-26 17:27:31 INFO  TC_toField - Clicking in From Dropdown field
+2024-12-26 17:27:32 INFO  TC_toField - Clearing the data From Dropdown field
+2024-12-26 17:27:32 INFO  TC_toField - Entering the data in From Dropdown field
+2024-12-26 17:27:32 INFO  TC_toField - Selecting the value from the to dropdown
+2024-12-26 17:28:45 INFO  TC_toField - Starting the TC and navigating on the Home Page to select the Value from the To field dropwdown
+2024-12-26 17:28:47 INFO  TC_toField - Clicking in From Dropdown field
+2024-12-26 17:28:48 INFO  TC_toField - Clearing the data From Dropdown field
+2024-12-26 17:28:48 INFO  TC_toField - Entering the data in From Dropdown field
+2024-12-26 17:28:48 INFO  TC_toField - Selecting the value from the to dropdown
+2024-12-26 17:29:43 INFO  TC_fromField - Starting the TC and navigating on the Home Page
+2024-12-26 17:29:44 INFO  TC_fromField - Clicking in From Dropdown field
+2024-12-26 17:29:44 INFO  TC_fromField - Clearing the data From Dropdown field
+2024-12-26 17:29:44 INFO  TC_fromField - Entering the data in From Dropdown field
+2024-12-26 17:29:44 INFO  TC_fromField - Selecting the value form the dropdown
+2024-12-26 17:29:47 INFO  TC_toField - Starting the TC and navigating on the Home Page to select the Value from the To field dropwdown
+2024-12-26 17:29:47 INFO  TC_toField - Clicking in From Dropdown field
+2024-12-26 17:29:47 INFO  TC_toField - Clearing the data From Dropdown field
+2024-12-26 17:29:47 INFO  TC_toField - Entering the data in From Dropdown field
+2024-12-26 17:29:47 INFO  TC_toField - Selecting the value from the to dropdown
+2024-12-26 17:29:48 INFO  TC_fromField - Date Entered Successfully
+2024-12-26 17:29:53 INFO  TC_reservationQuota - Starting the TC and navigating on the Home Page
+2024-12-26 17:29:54 INFO  TC_reservationQuota - The selected option for the reservation quota is mentioned below:
+2024-12-26 17:29:54 INFO  TC_classFilterDropdown - Starting the TC and navigating on the Home Page
+2024-12-26 17:29:58 INFO  TC_classFilterDropdown - The selected option for the Class Filter  is mentioned below:
