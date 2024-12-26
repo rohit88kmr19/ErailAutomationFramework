@@ -7,6 +7,9 @@ import erailOrange.com.pages.PageObjectmodel.ErailHomePage;
 import org.testng.annotations.Test;
 
 import java.io.IOException;
+import java.time.Duration;
+
+import static erailOrange.com.driver.DriverManager.driver;
 
 public class E2E extends CommonToAllTests {
 
@@ -16,7 +19,7 @@ public class E2E extends CommonToAllTests {
     TC_dateField tcDateField = new TC_dateField();
     TC_reservationQuota tcReservationQuota=new TC_reservationQuota();
     TC_classFilterDropdown tcClassFilterDropdown = new TC_classFilterDropdown();
-    ErailHomePage erailHomePage=null;
+    //ErailHomePage erailHomePage=null;
 
     @Test(retryAnalyzer = RetryAnalyzer.class)
     public void EndToEndTest() throws IOException, InterruptedException {
@@ -24,11 +27,12 @@ public class E2E extends CommonToAllTests {
         erailHomePage.ErailLogin();
         TC_fromField.fromField();
         TC_toField.toField();
+        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
         TC_dateField.dateField();
         TC_reservationQuota.fromResQuota();
         TC_classFilterDropdown.classFilterDropdown();
         erailHomePage.getTrainsClick();
-        Thread.sleep(4000);
+        Thread.sleep(4000);//Waiting after clicking on the get Trains button.
 
     }
 }

@@ -10,7 +10,10 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
 import org.testng.annotations.Test;
 
+import java.time.Duration;
 import java.util.List;
+
+import static erailOrange.com.driver.DriverManager.driver;
 
 public class TC_reservationQuota extends CommonToAllTests {
 
@@ -28,8 +31,9 @@ public class TC_reservationQuota extends CommonToAllTests {
         for (int i = 0; i < options.size(); i++) {
             WebElement reseOpt = options.get(i);
             System.out.println("The option text are--->" + (i + 1) + ":" + reseOpt.getText());
+            driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(4));
+            select.selectByVisibleText("Tatkal");
             }
-        select.selectByVisibleText("Foreign");
         WebElement selectedOption = select.getFirstSelectedOption();
         logger.info("The selected option for the reservation quota is mentioned below:");
         System.out.println(selectedOption.getText());

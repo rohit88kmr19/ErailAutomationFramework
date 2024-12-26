@@ -4,6 +4,7 @@ import erailOrange.com.Listeners.RetryAnalyzer;
 import erailOrange.com.base.CommonToAllTests;
 import erailOrange.com.driver.DriverManager;
 import erailOrange.com.pages.PageObjectmodel.ErailHomePage;
+import erailOrange.com.utils.waitUtils;
 import io.qameta.allure.Description;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -15,6 +16,7 @@ import static erailOrange.com.driver.DriverManager.driver;
 @Test(retryAnalyzer = RetryAnalyzer.class)
 public class TC_dateField extends CommonToAllTests {
 
+    static waitUtils waitUtils = new waitUtils();
     private static final Logger logger = LogManager.getLogger(TC_fromField.class);
 
     @Test
@@ -23,7 +25,6 @@ public class TC_dateField extends CommonToAllTests {
         logger.info("Date Entered Successfully");
         ErailHomePage erailHomePage = new ErailHomePage(DriverManager.getDriver());
         erailHomePage.ErailLogin();
-        Thread.sleep(3000);
         erailHomePage.sortDateField();
         ((JavascriptExecutor) driver).executeScript("arguments[0].click();", erailHomePage.dateSelect());
         Thread.sleep(4000);// Using this Thread so that , we could see if the date selected or not .

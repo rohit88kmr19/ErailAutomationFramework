@@ -21,10 +21,10 @@ public class ErailHomePage extends ErailMethods {
     private By fromField = By.xpath("//tbody/tr/td/input[@id='txtStationFrom']");
     private By toField = By.xpath("//tbody/tr/td/input[@id='txtStationTo']");
     private By sortOnDate = By.xpath("//input[@title='Select Departure date for availability']");
-    private By dateElement = By.xpath("//td[@onclick='DoDateSelect(1745001000000)']");
-    public static By reserveQuota = By.xpath("//select[@id='cmbQuota']");
-    private By classFilter = By.xpath("//select[@id='selectClassFilter']");
-    private static By getTrainsButton=By.xpath("//input[@id=\"buttonFromTo\"]");
+    public By dateElement = By.xpath("//td[@onclick='DoDateSelect(1745001000000)']");
+    private static By reserveQuota = By.xpath("//select[@id='cmbQuota']");
+    public By classFilter = By.xpath("//select[@id='selectClassFilter']");
+    public static By getTrainsButton=By.xpath("//input[@id=\"buttonFromTo\"]");
 
     // Page Actions Erail Home Page
 
