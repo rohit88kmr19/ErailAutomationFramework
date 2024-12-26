@@ -24,7 +24,7 @@ public class TC_dateField extends CommonToAllTests {
         ErailHomePage erailHomePage = new ErailHomePage(DriverManager.getDriver());
         erailHomePage.ErailLogin();
         Thread.sleep(3000);
-        //erailHomePage.sortDateField();
+        erailHomePage.sortDateField();
         ((JavascriptExecutor) driver).executeScript("arguments[0].click();", erailHomePage.dateSelect());
         Thread.sleep(4000);// Using this Thread so that , we could see if the date selected or not .
     }
