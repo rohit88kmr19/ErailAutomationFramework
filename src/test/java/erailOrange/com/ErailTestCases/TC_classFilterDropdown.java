@@ -1,7 +1,6 @@
 package erailOrange.com.ErailTestCases;
 
 import erailOrange.com.base.CommonToAllTests;
-import erailOrange.com.driver.DriverManager;
 import erailOrange.com.pages.PageObjectmodel.ErailHomePage;
 import erailOrange.com.utils.waitUtils;
 import io.qameta.allure.Description;
@@ -13,6 +12,8 @@ import org.testng.annotations.Test;
 
 import java.util.List;
 
+import static erailOrange.com.driver.DriverManagerTL.getDriver1;
+
 public class TC_classFilterDropdown extends CommonToAllTests {
 
         private static final Logger logger = LogManager.getLogger(TC_classFilterDropdown.class);
@@ -22,7 +23,7 @@ public class TC_classFilterDropdown extends CommonToAllTests {
         public static void classFilterDropdown () {
             waitUtils waitUtils = new waitUtils();
             logger.info("Starting the TC and navigating on the Home Page");
-            ErailHomePage erailHomePage = new ErailHomePage(DriverManager.getDriver());
+            ErailHomePage erailHomePage = new ErailHomePage(getDriver1());
             erailHomePage.ErailLogin();
             Select select = new Select(erailHomePage.classFilterDropdown());
             List<WebElement> optionsClass = select.getOptions();

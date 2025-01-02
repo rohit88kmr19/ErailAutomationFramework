@@ -6,6 +6,8 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
+import static erailOrange.com.driver.DriverManagerTL.getDriver1;
+
 
 public class ErailHomePage extends ErailMethods {
 
@@ -53,7 +55,7 @@ public class ErailHomePage extends ErailMethods {
     }
 
     public void ErailLogin() {
-        driver.get(PropertyReader.readKey("eurl"));
+        getDriver1().get(PropertyReader.readKey("eurl"));
     }
 
     public void sortDateField() {

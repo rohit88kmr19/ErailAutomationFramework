@@ -1,7 +1,7 @@
 package erailOrange.com.ErailTestCases;
 
 import erailOrange.com.base.CommonToAllTests;
-import erailOrange.com.driver.DriverManager;
+import erailOrange.com.driver.DriverManagerTL;
 import erailOrange.com.pages.PageObjectmodel.ErailHomePage;
 import erailOrange.com.utils.ExcelUtility;
 import io.qameta.allure.Description;
@@ -15,8 +15,6 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-import static erailOrange.com.driver.DriverManager.driver;
-
 public class TC_fromField extends CommonToAllTests {
 
     private static final Logger logger = LogManager.getLogger(TC_fromField.class);
@@ -26,7 +24,7 @@ public class TC_fromField extends CommonToAllTests {
     public static void fromField() throws InterruptedException, IOException {
 
         logger.info("Starting the TC and navigating on the Home Page");
-        ErailHomePage erailHomePage = new ErailHomePage(DriverManager.getDriver());
+        ErailHomePage erailHomePage = new ErailHomePage(DriverManagerTL.getDriver1());
         erailHomePage.ErailLogin();
         logger.info("Clicking in From Dropdown field");
         erailHomePage.clickFromField();
@@ -35,7 +33,7 @@ public class TC_fromField extends CommonToAllTests {
         logger.info("Entering the data in From Dropdown field");
         erailHomePage.insertDataInFromField();
         logger.info("Selecting the value form the dropdown");
-        List<WebElement> fromDropdownOptions = driver.findElements(ErailHomePage.fromDropdownList);
+        List<WebElement> fromDropdownOptions = DriverManagerTL.getDriver1().findElements(ErailHomePage.fromDropdownList);
         List<String> fromDropdownData = new ArrayList<>();
         boolean isOptionFound = false;
         for (WebElement fromDropdown : fromDropdownOptions) {

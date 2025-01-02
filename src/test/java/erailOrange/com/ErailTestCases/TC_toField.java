@@ -1,7 +1,6 @@
 package erailOrange.com.ErailTestCases;
 
 import erailOrange.com.base.CommonToAllTests;
-import erailOrange.com.driver.DriverManager;
 import erailOrange.com.pages.PageObjectmodel.ErailHomePage;
 import erailOrange.com.utils.ExcelUtility;
 import io.qameta.allure.Description;
@@ -13,7 +12,7 @@ import org.testng.annotations.Test;
 import java.util.ArrayList;
 import java.util.List;
 
-import static erailOrange.com.driver.DriverManager.driver;
+import static erailOrange.com.driver.DriverManagerTL.getDriver1;
 
 public class TC_toField extends CommonToAllTests {
 
@@ -24,7 +23,7 @@ public class TC_toField extends CommonToAllTests {
     public static void toField() {
 
         logger.info("Starting the TC and navigating on the Home Page to select the Value from the To field dropwdown");
-        ErailHomePage erailHomePage = new ErailHomePage(DriverManager.getDriver());
+        ErailHomePage erailHomePage = new ErailHomePage(getDriver1());
         erailHomePage.ErailLogin();
         logger.info("Clicking in From Dropdown field");
         erailHomePage.clickToField();
@@ -33,7 +32,7 @@ public class TC_toField extends CommonToAllTests {
         logger.info("Entering the data in From Dropdown field");
         erailHomePage.insertDataToField();
         logger.info("Selecting the value from the to dropdown");
-        List<WebElement> toDropdownOptions = driver.findElements(ErailHomePage.toDropdownList);
+        List<WebElement> toDropdownOptions = getDriver1().findElements(ErailHomePage.toDropdownList);
         List<String> toDropdownData = new ArrayList<>();
         boolean isOptionFound = false;
         for (WebElement toDropdown : toDropdownOptions) {

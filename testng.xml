@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" parallel="methods" thread-count="6" name="D:/Erail_OrangeAutomationFramework">
+        <classes>
+            <class name="erailOrange.com.ErailTestCases.TC_classFilterDropdown">
+                <methods>
+                    <include name="classFilterDropdown"/>
+                </methods>
+            </class>
+            <class name="erailOrange.com.ErailTestCases.TC_dateField">
+                <methods>
+                    <include name="dateField"/>
+                </methods>
+            </class>
+            <class name="erailOrange.com.ErailTestCases.TC_fromField">
+                <methods>
+                    <include name="fromField"/>
+                </methods>
+            </class>
+            <class name="erailOrange.com.ErailTestCases.TC_reservationQuota">
+                <methods>
+                    <include name="fromResQuota"/>
+                </methods>
+            </class>
+            <class name="erailOrange.com.ErailTestCases.TC_toField">
+                <methods>
+                    <include name="toField"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
