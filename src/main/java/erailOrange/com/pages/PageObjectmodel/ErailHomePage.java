@@ -1,12 +1,11 @@
 package erailOrange.com.pages.PageObjectmodel;
 
 import erailOrange.com.base.ErailMethods;
+import erailOrange.com.driver.DriverManagerTL;
 import erailOrange.com.utils.PropertyReader;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-
-import static erailOrange.com.driver.DriverManagerTL.getDriver1;
 
 
 public class ErailHomePage extends ErailMethods {
@@ -27,6 +26,7 @@ public class ErailHomePage extends ErailMethods {
     private static By reserveQuota = By.xpath("//select[@id='cmbQuota']");
     public By classFilter = By.xpath("//select[@id='selectClassFilter']");
     public static By getTrainsButton=By.xpath("//input[@id=\"buttonFromTo\"]");
+    public By getTrainNumberDetails = By.xpath("//div[@id='divTrainsList']//tr[contains(@onclick, 'TrainsObj.TrainSelected')]/td[1]");
 
     // Page Actions Erail Home Page
 
@@ -55,7 +55,7 @@ public class ErailHomePage extends ErailMethods {
     }
 
     public void ErailLogin() {
-        getDriver1().get(PropertyReader.readKey("eurl"));
+        DriverManagerTL.getDriver1().get(PropertyReader.readKey("eurl"));
     }
 
     public void sortDateField() {
@@ -77,5 +77,9 @@ public class ErailHomePage extends ErailMethods {
     public void getTrainsClick()
     {
         driver.findElement(getTrainsButton).click();
+    }
+    public void getTrainsPnrNo()
+    {
+        driver.findElement(getTrainNumberDetails);
     }
 }
